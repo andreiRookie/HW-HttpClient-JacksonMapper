@@ -1,0 +1,7 @@
+### intelliJ idea ###
+*.iml
+.idea
+basket/
+client log/
+target/
+out/
